@@ -28,4 +28,6 @@ Welcome to my Github page.
 
 ## Check out some of the data visualizations I created:
 
+<img src="https://github.com/devalc/30DayMapChallenge/blob/main/11_3d/R/pune707.png" alt="3-D visual of the topography in the upper Bhima River basin." width="400"/>
+
 <img src="https://github.com/devalc/MyContributions_to_30DayMapChallenge/blob/main/01_points/R/total_coliform_max1.gif" alt="Maximum total coliforms in surface water bodies in India" width="400"/>
