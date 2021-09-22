@@ -51,7 +51,7 @@ Welcome to my Github page.
 
 <p float="left">
 <img src="https://github.com/devalc/30DayMapChallenge/blob/main/10_grid/R/10_30DayMapChallenge.gif" alt="Visualization shows FLUXNET ET (m/day) data over Indus, Ganges, Brahmaputra, Mahi, Narmada, Tapi, and Godavari River basins." width="425"/>
-<img src="https://github.com/devalc/30DayMapChallenge/blob/main/11_3d/R/pune707.png" alt="3-D visual of the topography in the upper Bhima River basin." width="450"/>
+<img src="https://github.com/devalc/30DayMapChallenge/blob/main/11_3d/R/pune707.png" alt="3-D visual of the topography in the upper Bhima River basin." width="425"/>
 </p>
 
 
