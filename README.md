@@ -37,10 +37,10 @@ My name is Chinmay. Welcome to my GitHub page.
 <a href="https://github.com/">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="100">
 </a>
-<a href="">
+<a href="https://www.docker.com/">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" width="100">
 </a>
-<a href="https://www.docker.com/">
+<a href="https://ubuntu.com/">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" width="100">
 </a>
 <a href="https://www.latex-project.org/">
