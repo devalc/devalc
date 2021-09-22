@@ -59,9 +59,8 @@ Welcome to my Github page.
 <img src="https://github.com/devalc/30DayMapChallenge/blob/main/07_green/R/07_30DatMapChallenge.gif" alt=" Timelapse of timber harvest/recovery in Mica Creek experimental forest as captured by the Landsat NDVI. " width="415"/>
 <img src="https://github.com/devalc/MyContributions_to_30DayMapChallenge/blob/main/01_points/R/total_coliform_max1.gif" alt="Maximum total coliforms in surface water bodies in India" width="435"/>
 </p>
+
+<p float="left">
 <img src="https://github.com/devalc/30DayMapChallenge/blob/main/10_grid/R/10_30DayMapChallenge.gif" alt="Visualization shows FLUXNET ET (m/day) data over Indus, Ganges, Brahmaputra, Mahi, Narmada, Tapi, and Godavari River basins." width="400"/>
-
-
-
-
 <img src="https://github.com/devalc/30DayMapChallenge/blob/main/11_3d/R/pune707.png" alt="3-D visual of the topography in the upper Bhima River basin." width="400"/>
+</p>
