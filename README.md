@@ -4,6 +4,7 @@
 
 Welcome to my Github page. 
 
+
 ## Technologies and tools I use:
 
 <a href="https://www.python.org/">
@@ -41,6 +42,7 @@ Welcome to my Github page.
 </a>
 
 
+
 ## &#x1f4c8; GitHub Statistics
 
 <a href="https://github.com/devalc/devalc">
@@ -49,6 +51,7 @@ Welcome to my Github page.
 <a href="https://github.com/devalc/devalc">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=devalc&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Chinmay's GitHub Stats" />
 </a>
+
 
 ## Check out some of the data visualizations I created:
 (Click on the images for full resolution)
