@@ -43,29 +43,6 @@ Welcome to my Github page.
 
 
 
-<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" />
-<div class="container">
-  <div class="col-xs-6 p0">
-    <img src="https://nssdc.gsfc.nasa.gov/image/planetary/venus/gal_venus_37218.jpg" class="img-responsive">
-  </div>
-  <div class="col-xs-6">
-    <div class="row">
-      <div class="col-xs-12 half-img-container p0">
-        <img src="https://s-media-cache-ak0.pinimg.com/736x/7f/7f/53/7f7f536655a69664e130c797e359d27d--flowers-for-you-blue-flowers.jpg" class="img-responsive half-img">
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-xs-6 p0">
-        <img src="http://www.gemini.edu/images/pio/press_release/2012/pr2012-8/fig1.jpg" class="img-responsive">
-      </div>
-      <div class="col-xs-6 p0">
-        <img src="https://artstor.files.wordpress.com/2017/02/mma_fragmentary_head_ofa_queen2.png?w=500&h=500" class="img-responsive">
-      </div>
-    </div>
-  </div>
-</div>
-
-
 ## &#x1f4c8; GitHub Statistics
 
 <a href="https://github.com/devalc/devalc">
