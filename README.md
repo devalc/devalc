@@ -16,7 +16,7 @@ Welcome to my Github page.
 <img src="https://www.rstudio.com/wp-content/uploads/2014/04/shiny.png" alt="R" width="50">
 </a>
 <a href="https://shiny.rstudio.com/">
-<img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" width="50">
+<img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" width="80">
 </a>
 
 
