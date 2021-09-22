@@ -42,17 +42,6 @@ Welcome to my Github page.
 </a>
 
 
-
-## &#x1f4c8; GitHub Statistics
-
-<a href="https://github.com/devalc/devalc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devalc&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/devalc/devalc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devalc&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Chinmay's GitHub Stats" />
-</a>
-
-
 ## Check out some of the data visualizations I created:
 (Click on the images for full resolution)
 <p float="left">
@@ -64,3 +53,13 @@ Welcome to my Github page.
 <img src="https://github.com/devalc/30DayMapChallenge/blob/main/10_grid/R/10_30DayMapChallenge.gif" alt="Visualization shows FLUXNET ET (m/day) data over Indus, Ganges, Brahmaputra, Mahi, Narmada, Tapi, and Godavari River basins." width="400"/>
 <img src="https://github.com/devalc/30DayMapChallenge/blob/main/11_3d/R/pune707.png" alt="3-D visual of the topography in the upper Bhima River basin." width="400"/>
 </p>
+
+
+## &#x1f4c8; GitHub Statistics
+
+<a href="https://github.com/devalc/devalc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devalc&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/devalc/devalc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devalc&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Chinmay's GitHub Stats" />
+</a>
