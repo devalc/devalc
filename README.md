@@ -7,13 +7,15 @@ Welcome to my Github page.
 ## Technologies and tools I use:
 
 <a href="https://www.python.org/">
-<img src="https://github.com/devalc/devalc/blob/fa724f50253ccc2d6aab70fb1c6bdf60c86795c0/media/python.png" alt="Python" width="100" height="132">
+<img src="https://github.com/devalc/devalc/blob/fa724f50253ccc2d6aab70fb1c6bdf60c86795c0/media/python.png" alt="Python" width="100">
+</a>
+<a href="https://www.r-project.org/">
+<img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="100">
+</a>
+<a href="https://shiny.rstudio.com/">
+<img src="https://www.rstudio.com/wp-content/uploads/2014/04/shiny.png" alt="R" width="100">
 </a>
 
-
-
-[![R](https://www.r-project.org/logo/Rlogo.svg)(https://www.r-project.org/)
-[![Shiny](https://www.rstudio.com/wp-content/uploads/2014/04/shiny.png)(https://shiny.rstudio.com/)
 
 ## &#x1f4c8; GitHub Statistics
 
