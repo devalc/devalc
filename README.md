@@ -26,6 +26,6 @@ Welcome to my Github page.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=devalc&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Chinmay's GitHub Stats" />
 </a>
 
-## Check out some of the data visualizations I made:
+## Check out some of the data visualizations I created:
 
-<img src="https://github.com/devalc/MyContributions_to_30DayMapChallenge/blob/main/01_points/R/total_coliform_max1.gif" alt="Maximum total coliforms in surface water bodies in India" width="200"/>
+<img src="https://github.com/devalc/MyContributions_to_30DayMapChallenge/blob/main/01_points/R/total_coliform_max1.gif" alt="Maximum total coliforms in surface water bodies in India" width="400"/>
