@@ -56,7 +56,7 @@ Welcome to my Github page.
 ## Check out some of the data visualizations I created:
 (Click on the images for full resolution)
 <p float="left">
-<img src="https://github.com/devalc/30DayMapChallenge/blob/main/07_green/R/07_30DatMapChallenge.gif" alt=" Timelapse of timber harvest/recovery in Mica Creek experimental forest as captured by the Landsat NDVI. " width="450"/>
+<img src="https://github.com/devalc/30DayMapChallenge/blob/main/07_green/R/07_30DatMapChallenge.gif" alt=" Timelapse of timber harvest/recovery in Mica Creek experimental forest as captured by the Landsat NDVI. " width="420"/>
 <img src="https://github.com/devalc/MyContributions_to_30DayMapChallenge/blob/main/01_points/R/total_coliform_max1.gif" alt="Maximum total coliforms in surface water bodies in India" width="450"/>
 </p>
 <img src="https://github.com/devalc/30DayMapChallenge/blob/main/10_grid/R/10_30DayMapChallenge.gif" alt="Visualization shows FLUXNET ET (m/day) data over Indus, Ganges, Brahmaputra, Mahi, Narmada, Tapi, and Godavari River basins." width="400"/>
