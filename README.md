@@ -60,6 +60,10 @@ My name is Chinmay. Welcome to my GitHub page.
 <img src="https://github.com/devalc/30DayMapChallenge/blob/main/11_3d/R/pune707.png" alt="3-D visual of the topography in the upper Bhima River basin." width="425"/>
 </p>
 
+<p float="left">
+<img src="https://github.com/devalc/30DayMapChallenge/blob/main/08_yellow/R/08_30DayMapChallenge.gif" alt="US drought conditions by county" width="850"/>
+
+</p>
 
 ## &#x1f4c8; GitHub Statistics
 
