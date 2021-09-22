@@ -15,6 +15,10 @@ Welcome to my Github page.
 <a href="https://shiny.rstudio.com/">
 <img src="https://www.rstudio.com/wp-content/uploads/2014/04/shiny.png" alt="R" width="50">
 </a>
+<a href="https://shiny.rstudio.com/">
+<img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" width="50">
+</a>
+
 
 
 ## &#x1f4c8; GitHub Statistics
@@ -27,7 +31,9 @@ Welcome to my Github page.
 </a>
 
 ## Check out some of the data visualizations I created:
+(Click on the images for full resolution)
 
 <img src="https://github.com/devalc/30DayMapChallenge/blob/main/11_3d/R/pune707.png" alt="3-D visual of the topography in the upper Bhima River basin." width="400"/>
 
 <img src="https://github.com/devalc/MyContributions_to_30DayMapChallenge/blob/main/01_points/R/total_coliform_max1.gif" alt="Maximum total coliforms in surface water bodies in India" width="400"/>
+
