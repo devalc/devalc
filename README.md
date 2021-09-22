@@ -6,8 +6,14 @@ Welcome to my Github page.
 
 ## Technologies and tools I use:
 
-[![Python](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true)](https://www.python.org/)
+<a href="https://www.python.org/">
+<img src="https://github.com/devalc/devalc/blob/fa724f50253ccc2d6aab70fb1c6bdf60c86795c0/media/python.png" alt="Python" width="100" height="132">
+</a>
+
+
+
 [![R](https://www.r-project.org/logo/Rlogo.svg)(https://www.r-project.org/)
+[![Shiny](https://www.rstudio.com/wp-content/uploads/2014/04/shiny.png)(https://shiny.rstudio.com/)
 
 ## &#x1f4c8; GitHub Statistics
 
