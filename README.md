@@ -7,17 +7,20 @@ My name is Chinmay. Welcome to my GitHub page.
 
 ## Technologies and tools I use:
 
-<a href="https://www.python.org/">
-<img src="https://github.com/devalc/devalc/blob/fa724f50253ccc2d6aab70fb1c6bdf60c86795c0/media/python.png" alt="Python" width="50">
-</a>
 <a href="https://www.r-project.org/">
 <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="50">
+</a>
+<a href="https://www.rstudio.com/">
+<img src="https://github.com/rstudio/hex-stickers/blob/93361e262a3dcdc3913777d9fc36cb503d231a2d/SVG/RStudio.svg" alt="Rstudio" width="50">
 </a>
 <a href="https://shiny.rstudio.com/">
 <img src="https://www.rstudio.com/wp-content/uploads/2014/04/shiny.png" alt="R" width="50">
 </a>
-<a href="https://www.latex-project.org/">
-<img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" width="100">
+<a href="https://www.tidyverse.org/">
+<img src="https://github.com/rstudio/hex-stickers/blob/93361e262a3dcdc3913777d9fc36cb503d231a2d/SVG/tidyverse.svg" alt="Tidyverse" width="50">
+</a>
+<a href="https://www.python.org/">
+<img src="https://github.com/devalc/devalc/blob/fa724f50253ccc2d6aab70fb1c6bdf60c86795c0/media/python.png" alt="Python" width="50">
 </a>
 <a href="">
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" width="100">
@@ -39,6 +42,9 @@ My name is Chinmay. Welcome to my GitHub page.
 </a>
 <a href="">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" width="100">
+</a>
+<a href="https://www.latex-project.org/">
+<img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" width="100">
 </a>
 
 
