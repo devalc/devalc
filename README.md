@@ -22,25 +22,25 @@ My name is Chinmay. Welcome to my GitHub page.
 <a href="https://www.python.org/">
 <img src="https://github.com/devalc/devalc/blob/fa724f50253ccc2d6aab70fb1c6bdf60c86795c0/media/python.png" alt="Python" width="50">
 </a>
-<a href="">
+<a href="https://numpy.org/">
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" width="100">
 </a>
-<a href="">
+<a href="https://pandas.pydata.org/">
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" width="100">
 </a>
-<a href="">
+<a href="https://plotly.com/">
 <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" width="100">
 </a>
-<a href="">
+<a href="https://git-scm.com/">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="80">
 </a>
-<a href="">
+<a href="https://github.com/">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="100">
 </a>
 <a href="">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" width="100">
 </a>
-<a href="">
+<a href="https://www.docker.com/">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" width="100">
 </a>
 <a href="https://www.latex-project.org/">
