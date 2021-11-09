@@ -52,7 +52,7 @@ My name is Chinmay. Welcome to my GitHub page.
 (Click on the images for full resolution)
 <p float="left">
 <img src="https://github.com/devalc/30DayMapChallenge/blob/main/07_green/R/07_30DatMapChallenge.gif" alt=" Timelapse of timber harvest/recovery in Mica Creek experimental forest as captured by the Landsat NDVI. " width="413"/>
-<img src="https://github.com/devalc/MyContributions_to_30DayMapChallenge/blob/main/01_points/R/total_coliform_max1.gif" alt="Maximum total coliforms in surface water bodies in India" width="437"/>
+<img src="https://github.com/devalc/MyContributions_to_30DayMapChallenge/blob/main/01_points/R/total_coliform_max1.gif" alt="Maximum total coliforms in surface water bodies in India" width="400"/>
 </p>
 
 
