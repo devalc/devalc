@@ -57,7 +57,7 @@ My name is Chinmay. Welcome to my GitHub page.
 
 
 <p float="left">
-<img src="https://github.com/devalc/30DayMapChallenge/blob/main/08_yellow/R/08_30DayMapChallenge.gif" alt="US drought conditions by county" width="830"/>
+<img src="https://github.com/devalc/30DayMapChallenge/blob/main/08_yellow/R/08_30DayMapChallenge.gif" alt="US drought conditions by county" width="810"/>
 </p>
 
 <p float="left">
