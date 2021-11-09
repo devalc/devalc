@@ -61,8 +61,8 @@ My name is Chinmay. Welcome to my GitHub page.
 </p>
 
 <p float="left">
-<img src="https://github.com/devalc/30DayMapChallenge/blob/main/10_grid/R/10_30DayMapChallenge.gif" alt="Visualization shows FLUXNET ET (m/day) data over Indus, Ganges, Brahmaputra, Mahi, Narmada, Tapi, and Godavari River basins." width="410"/>
-<img src="https://github.com/devalc/30DayMapChallenge/blob/main/11_3d/R/pune707.png" alt="3-D visual of the topography in the upper Bhima River basin." width="410"/>
+<img src="https://github.com/devalc/30DayMapChallenge/blob/main/10_grid/R/10_30DayMapChallenge.gif" alt="Visualization shows FLUXNET ET (m/day) data over Indus, Ganges, Brahmaputra, Mahi, Narmada, Tapi, and Godavari River basins." width="400"/>
+<img src="https://github.com/devalc/30DayMapChallenge/blob/main/11_3d/R/pune707.png" alt="3-D visual of the topography in the upper Bhima River basin." width="400"/>
 </p>
 
 ## &#x1f4c8; GitHub Statistics
