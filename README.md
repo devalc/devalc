@@ -53,7 +53,7 @@ My name is Chinmay. Welcome to my GitHub page.
 
 <table>
   <tr>
-    <td><img src="https://github.com/devalc/flood-insurance-maps/blob/main/figures/coverage_vs_payments_figure.png" alt="" width="430" /></td>
+    <td><img src="https://github.com/devalc/flood-insurance-maps/blob/main/figures/coverage_vs_payments_figure.png" alt="" width="400" /></td>
     <td><img src="https://github.com/devalc/30DayMapChallenge/blob/main/08_yellow/R/08_30DayMapChallenge.gif" alt="US drought conditions by county" width="430" /></td>
   </tr>
   <tr>
