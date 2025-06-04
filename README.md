@@ -51,21 +51,21 @@ My name is Chinmay. Welcome to my GitHub page.
 ## 📊 Featured Data Visualizations
 (Click on the images for full resolution)
 
+<table>
+  <tr>
+    <td><img src="https://github.com/devalc/flood-insurance-maps/blob/main/figures/coverage_vs_payments_figure.png" alt="" width="460" /></td>
+    <td><img src="https://github.com/devalc/30DayMapChallenge/blob/main/08_yellow/R/08_30DayMapChallenge.gif" alt="US drought conditions by county" width="460" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/devalc/30DayMapChallenge/blob/main/07_green/R/07_30DatMapChallenge.gif" alt="Timelapse of timber harvest/recovery in Mica Creek experimental forest as captured by the Landsat NDVI." width="460" /></td>
+    <td><img src="https://github.com/devalc/MyContributions_to_30DayMapChallenge/blob/main/01_points/R/total_coliform_max1.gif" alt="Maximum total coliforms in surface water bodies in India" width="460" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/devalc/30DayMapChallenge/blob/main/10_grid/R/10_30DayMapChallenge.gif" alt="Visualization shows FLUXNET ET (m/day) data over Indus, Ganges, Brahmaputra, Mahi, Narmada, Tapi, and Godavari River basins." width="460" /></td>
+    <td><img src="https://github.com/devalc/colaboratory-adventures/blob/main/Exports/bombcyclone2023.gif" alt="Timelapse of bomb cyclone/atmospheric river created using GEOS-17 satellite data." width="460" /></td>
+  </tr>
+</table>
 
-<div style="display: flex; gap: 20px; flex-wrap: nowrap; overflow-x: auto; margin-bottom: 1rem;">
-  <img src="https://github.com/devalc/flood-insurance-maps/blob/main/figures/coverage_vs_payments_figure.png" alt="" width="460" />
-  <img src="https://github.com/devalc/30DayMapChallenge/blob/main/08_yellow/R/08_30DayMapChallenge.gif" alt="US drought conditions by county" width="460" />
-</div>
-
-<div style="display: flex; gap: 20px; flex-wrap: nowrap; overflow-x: auto; margin-bottom: 1rem;">
-  <img src="https://github.com/devalc/30DayMapChallenge/blob/main/07_green/R/07_30DatMapChallenge.gif" alt="Timelapse of timber harvest/recovery in Mica Creek experimental forest as captured by the Landsat NDVI." width="460" />
-  <img src="https://github.com/devalc/MyContributions_to_30DayMapChallenge/blob/main/01_points/R/total_coliform_max1.gif" alt="Maximum total coliforms in surface water bodies in India" width="460" />
-</div>
-
-<div style="display: flex; gap: 20px; flex-wrap: nowrap; overflow-x: auto; margin-bottom: 1rem;">
-  <img src="https://github.com/devalc/30DayMapChallenge/blob/main/10_grid/R/10_30DayMapChallenge.gif" alt="Visualization shows FLUXNET ET (m/day) data over Indus, Ganges, Brahmaputra, Mahi, Narmada, Tapi, and Godavari River basins." width="460" />
-  <img src="https://github.com/devalc/colaboratory-adventures/blob/main/Exports/bombcyclone2023.gif" alt="Timelapse of bomb cyclone/atmospheric river created using GEOS-17 satellite data." width="460" />
-</div>
 
 
 
