@@ -5,7 +5,7 @@
 My name is Chinmay. Welcome to my GitHub page. 
 
 
-## Technologies and tools I use:
+## 🛠️ Technologies & Tools I Use
 
 <a href="https://www.r-project.org/">
 <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="50">
@@ -48,21 +48,23 @@ My name is Chinmay. Welcome to my GitHub page.
 </a>
 
 
-## Check out some of the data visualizations I created:
+## 📊 Featured Data Visualizations
 (Click on the images for full resolution)
-<p float="left">
-<img src="https://github.com/devalc/30DayMapChallenge/blob/main/07_green/R/07_30DatMapChallenge.gif" alt=" Timelapse of timber harvest/recovery in Mica Creek experimental forest as captured by the Landsat NDVI. " width="400"/>
-<img src="https://github.com/devalc/MyContributions_to_30DayMapChallenge/blob/main/01_points/R/total_coliform_max1.gif" alt="Maximum total coliforms in surface water bodies in India" width="410"/>
-</p>
 
 
 <p float="left">
-<img src="https://github.com/devalc/30DayMapChallenge/blob/main/08_yellow/R/08_30DayMapChallenge.gif" alt="US drought conditions by county" width="810"/>
+<img src="https://github.com/devalc/flood-insurance-maps/blob/main/figures/coverage_vs_payments_figure.png" alt="" width ="410"/>
+<img src="https://github.com/devalc/30DayMapChallenge/blob/main/08_yellow/R/08_30DayMapChallenge.gif" alt="US drought conditions by county" width="485"/>
 </p>
 
 <p float="left">
-<img src="https://github.com/devalc/30DayMapChallenge/blob/main/10_grid/R/10_30DayMapChallenge.gif" alt="Visualization shows FLUXNET ET (m/day) data over Indus, Ganges, Brahmaputra, Mahi, Narmada, Tapi, and Godavari River basins." width="400"/>
-<img src="https://github.com/devalc/colaboratory-adventures/blob/main/Exports/bombcyclone2023.gif" alt="Timelapse of bomb cyclone/atmospheric river created using GEOS-17 satellite data." width="400"/>
+<img src="https://github.com/devalc/30DayMapChallenge/blob/main/07_green/R/07_30DatMapChallenge.gif" alt=" Timelapse of timber harvest/recovery in Mica Creek experimental forest as captured by the Landsat NDVI. " width="430"/>
+<img src="https://github.com/devalc/MyContributions_to_30DayMapChallenge/blob/main/01_points/R/total_coliform_max1.gif" alt="Maximum total coliforms in surface water bodies in India" width="455"/>
+</p>
+
+<p float="left">
+<img src="https://github.com/devalc/30DayMapChallenge/blob/main/10_grid/R/10_30DayMapChallenge.gif" alt="Visualization shows FLUXNET ET (m/day) data over Indus, Ganges, Brahmaputra, Mahi, Narmada, Tapi, and Godavari River basins." width="430"/>
+<img src="https://github.com/devalc/colaboratory-adventures/blob/main/Exports/bombcyclone2023.gif" alt="Timelapse of bomb cyclone/atmospheric river created using GEOS-17 satellite data." width="470"/>
 </p>
 
 ## &#x1f4c8; GitHub Statistics
